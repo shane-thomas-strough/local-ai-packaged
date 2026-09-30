@@ -6,3 +6,5 @@ shared-backup/
 .env.test
 searxng/settings.yml
 searxng/uwsgi*
+# Generated service credentials: the real file lives in ~/.secrets/local-ai-packaged/ (symlinked here)
+credentials.txt
